@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Restaurant.encode(with:):Restaurant.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Restaurant.init(coder:):Restaurant.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
